@@ -1,4 +1,4 @@
-# Laboratorio 5 –
+# Laboratorio 5 – Almacenamiento Clave Valor Escalable y MQTT
 
 ## Tarea
 
